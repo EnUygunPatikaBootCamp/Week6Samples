@@ -1,6 +1,6 @@
-# Week1Samples
+# Week6Samples
 
-Patika Enuygun Bootcamp 1. hafta örnekleri
+Patika Enuygun Bootcamp 6. hafta örnekleri
 
 # Konular:
 
