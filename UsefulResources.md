@@ -6,3 +6,4 @@
 - https://beyzacanbay.medium.com/pub-sub-mimarisi-nedir-nas%C4%B1l-%C3%A7al%C4%B1%C5%9F%C4%B1r-f0c5c8c841ff
 - https://stackoverflow.com/questions/26253198/symfony-controller-how-to-return-xml-response
 - https://symfony.com/doc/5.4/doctrine.html#querying-for-objects-the-repository
+- https://symfony.com/doc/5.4/doctrine/associations.html
